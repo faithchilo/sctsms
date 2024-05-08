@@ -4,7 +4,7 @@ This repository contains the source code for the front end web application for t
 
 ***
 ## Test it here:
-[https://Saitoria.github.io/sctsma](https://Saitoria.github.io/sctsma)
+[https://faithchilo.github.io/sctsma](https://faithchilo.github.io/sctsma)
   
 ***
 ### `npm start`
